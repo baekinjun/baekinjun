@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hi there ! i'm backend developer using several language and frameworks!
+👋 Hi there ! i'm backend developer using several language and frameworks!!
 
 🌱 I’m currently learning Java, Spring Boot, Docker, Kafka, MongoDB , SpringCloud MSA architecture
 
