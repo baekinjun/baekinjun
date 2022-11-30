@@ -2,7 +2,7 @@
 
 👋 Hi there ! i'm backend developer using several language and frameworks!!
 
-🌱 I’m currently learning Java, Spring Boot, Docker, Kafka, MongoDB , SpringCloud MSA architecture
+🌱 My main language is Java, Spring Boot, Docker, Kafka, MongoDB , SpringCloud MSA architecture
 
 ## Tech Stack 
 
